@@ -1,0 +1,15 @@
+/home/maykol/Estudio/Segundo/Programcion/Proyecto Domino/Alef/obj/Debug/net6.0/Alef.csproj.AssemblyReference.cache
+/home/maykol/Estudio/Segundo/Programcion/Proyecto Domino/Alef/obj/Debug/net6.0/Alef.GeneratedMSBuildEditorConfig.editorconfig
+/home/maykol/Estudio/Segundo/Programcion/Proyecto Domino/Alef/obj/Debug/net6.0/Alef.AssemblyInfoInputs.cache
+/home/maykol/Estudio/Segundo/Programcion/Proyecto Domino/Alef/obj/Debug/net6.0/Alef.AssemblyInfo.cs
+/home/maykol/Estudio/Segundo/Programcion/Proyecto Domino/Alef/obj/Debug/net6.0/Alef.csproj.CoreCompileInputs.cache
+/home/maykol/Estudio/Segundo/Programcion/Proyecto Domino/Alef/bin/Debug/net6.0/Alef
+/home/maykol/Estudio/Segundo/Programcion/Proyecto Domino/Alef/bin/Debug/net6.0/Alef.deps.json
+/home/maykol/Estudio/Segundo/Programcion/Proyecto Domino/Alef/bin/Debug/net6.0/Alef.runtimeconfig.json
+/home/maykol/Estudio/Segundo/Programcion/Proyecto Domino/Alef/bin/Debug/net6.0/Alef.dll
+/home/maykol/Estudio/Segundo/Programcion/Proyecto Domino/Alef/bin/Debug/net6.0/ref/Alef.dll
+/home/maykol/Estudio/Segundo/Programcion/Proyecto Domino/Alef/bin/Debug/net6.0/Alef.pdb
+/home/maykol/Estudio/Segundo/Programcion/Proyecto Domino/Alef/obj/Debug/net6.0/Alef.dll
+/home/maykol/Estudio/Segundo/Programcion/Proyecto Domino/Alef/obj/Debug/net6.0/ref/Alef.dll
+/home/maykol/Estudio/Segundo/Programcion/Proyecto Domino/Alef/obj/Debug/net6.0/Alef.pdb
+/home/maykol/Estudio/Segundo/Programcion/Proyecto Domino/Alef/obj/Debug/net6.0/Alef.genruntimeconfig.cache
