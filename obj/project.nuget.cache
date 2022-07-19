@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rTvxs9UMC9Zy6xbeIkj+WhcdC820xor4hkNqU0CuWY6VBi+xRxFnwkkSEr5A5qVp/3IQzoDLLp9oE4pD4A+Azg==",
+  "success": true,
+  "projectFilePath": "/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/Domino Project/DominoApp.csproj",
+  "expectedPackageFiles": [
+    "/home/jose/.nuget/packages/microsoft.toolkit.highperformance/7.1.2/microsoft.toolkit.highperformance.7.1.2.nupkg.sha512",
+    "/home/jose/.nuget/packages/raylib-cslo/4.0.1/raylib-cslo.4.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

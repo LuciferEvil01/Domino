@@ -1,0 +1,58 @@
+/home/jose/Documents/Universidad/Programacion/Proyectos/Domino/DominoApp/obj/Debug/net6.0/DominoApp.csproj.AssemblyReference.cache
+/home/jose/Documents/Universidad/Programacion/Proyectos/Domino/DominoApp/obj/Debug/net6.0/DominoApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/Documents/Universidad/Programacion/Proyectos/Domino/DominoApp/obj/Debug/net6.0/DominoApp.AssemblyInfoInputs.cache
+/home/jose/Documents/Universidad/Programacion/Proyectos/Domino/DominoApp/obj/Debug/net6.0/DominoApp.AssemblyInfo.cs
+/home/jose/Documents/Universidad/Programacion/Proyectos/Domino/DominoApp/obj/Debug/net6.0/DominoApp.csproj.CoreCompileInputs.cache
+/home/jose/Documents/Universidad/Programacion/Proyectos/Domino/DominoApp/bin/Debug/net6.0/DominoApp
+/home/jose/Documents/Universidad/Programacion/Proyectos/Domino/DominoApp/bin/Debug/net6.0/DominoApp.deps.json
+/home/jose/Documents/Universidad/Programacion/Proyectos/Domino/DominoApp/bin/Debug/net6.0/DominoApp.runtimeconfig.json
+/home/jose/Documents/Universidad/Programacion/Proyectos/Domino/DominoApp/bin/Debug/net6.0/DominoApp.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Domino/DominoApp/bin/Debug/net6.0/ref/DominoApp.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Domino/DominoApp/bin/Debug/net6.0/DominoApp.pdb
+/home/jose/Documents/Universidad/Programacion/Proyectos/Domino/DominoApp/bin/Debug/net6.0/Microsoft.Toolkit.HighPerformance.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Domino/DominoApp/bin/Debug/net6.0/Raylib-CsLo.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Domino/DominoApp/bin/Debug/net6.0/runtimes/linux-x64/native/libraylib.so
+/home/jose/Documents/Universidad/Programacion/Proyectos/Domino/DominoApp/bin/Debug/net6.0/runtimes/osx-x64/native/libraylib-no-extras.dylib
+/home/jose/Documents/Universidad/Programacion/Proyectos/Domino/DominoApp/bin/Debug/net6.0/runtimes/osx-x64/native/libraylib.dylib
+/home/jose/Documents/Universidad/Programacion/Proyectos/Domino/DominoApp/bin/Debug/net6.0/runtimes/win-x64/native/raylib.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Domino/DominoApp/bin/Debug/net6.0/runtimes/win-x64/native/raylib.pdb
+/home/jose/Documents/Universidad/Programacion/Proyectos/Domino/DominoApp/bin/Debug/net6.0/runtimes/win-x86/native/physac.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Domino/DominoApp/bin/Debug/net6.0/runtimes/win-x86/native/physac.pdb
+/home/jose/Documents/Universidad/Programacion/Proyectos/Domino/DominoApp/bin/Debug/net6.0/runtimes/win-x86/native/raygui.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Domino/DominoApp/bin/Debug/net6.0/runtimes/win-x86/native/raygui.pdb
+/home/jose/Documents/Universidad/Programacion/Proyectos/Domino/DominoApp/bin/Debug/net6.0/runtimes/win-x86/native/raylib.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Domino/DominoApp/bin/Debug/net6.0/runtimes/win-x86/native/raylib.pdb
+/home/jose/Documents/Universidad/Programacion/Proyectos/Domino/DominoApp/obj/Debug/net6.0/DominoApp.csproj.CopyComplete
+/home/jose/Documents/Universidad/Programacion/Proyectos/Domino/DominoApp/obj/Debug/net6.0/DominoApp.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Domino/DominoApp/obj/Debug/net6.0/ref/DominoApp.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Domino/DominoApp/obj/Debug/net6.0/DominoApp.pdb
+/home/jose/Documents/Universidad/Programacion/Proyectos/Domino/DominoApp/obj/Debug/net6.0/DominoApp.genruntimeconfig.cache
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/Domino Project/bin/Debug/net6.0/DominoApp
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/Domino Project/bin/Debug/net6.0/DominoApp.deps.json
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/Domino Project/bin/Debug/net6.0/DominoApp.runtimeconfig.json
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/Domino Project/bin/Debug/net6.0/DominoApp.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/Domino Project/bin/Debug/net6.0/ref/DominoApp.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/Domino Project/bin/Debug/net6.0/DominoApp.pdb
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/Domino Project/bin/Debug/net6.0/Microsoft.Toolkit.HighPerformance.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/Domino Project/bin/Debug/net6.0/Raylib-CsLo.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/Domino Project/bin/Debug/net6.0/runtimes/linux-x64/native/libraylib.so
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/Domino Project/bin/Debug/net6.0/runtimes/osx-x64/native/libraylib-no-extras.dylib
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/Domino Project/bin/Debug/net6.0/runtimes/osx-x64/native/libraylib.dylib
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/Domino Project/bin/Debug/net6.0/runtimes/win-x64/native/raylib.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/Domino Project/bin/Debug/net6.0/runtimes/win-x64/native/raylib.pdb
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/Domino Project/bin/Debug/net6.0/runtimes/win-x86/native/physac.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/Domino Project/bin/Debug/net6.0/runtimes/win-x86/native/physac.pdb
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/Domino Project/bin/Debug/net6.0/runtimes/win-x86/native/raygui.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/Domino Project/bin/Debug/net6.0/runtimes/win-x86/native/raygui.pdb
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/Domino Project/bin/Debug/net6.0/runtimes/win-x86/native/raylib.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/Domino Project/bin/Debug/net6.0/runtimes/win-x86/native/raylib.pdb
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/Domino Project/obj/Debug/net6.0/DominoApp.csproj.AssemblyReference.cache
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/Domino Project/obj/Debug/net6.0/DominoApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/Domino Project/obj/Debug/net6.0/DominoApp.AssemblyInfoInputs.cache
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/Domino Project/obj/Debug/net6.0/DominoApp.AssemblyInfo.cs
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/Domino Project/obj/Debug/net6.0/DominoApp.csproj.CoreCompileInputs.cache
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/Domino Project/obj/Debug/net6.0/DominoApp.csproj.CopyComplete
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/Domino Project/obj/Debug/net6.0/DominoApp.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/Domino Project/obj/Debug/net6.0/ref/DominoApp.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/Domino Project/obj/Debug/net6.0/DominoApp.pdb
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/Domino Project/obj/Debug/net6.0/DominoApp.genruntimeconfig.cache
